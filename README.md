@@ -2,7 +2,7 @@
 - Widget developed to receive feedbacks.
 - This is a project developed during Next Level Week, offered by **[Rocketseat](https://www.rocketseat.com.br)**.
 
-## ✨ Built with:
+## ✨ Built with
 - [React](https://reactjs.org/)      
 - [Tailwindcss](https://tailwindcss.com/)      
 - [Typescript](https://www.typescriptlang.org/)
@@ -17,12 +17,12 @@
 ## 🔖 Layout
 - You can view the layout of the project through  **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
 
- ## 🛠️ Features:
+ ## 🛠️ Features
 - Sending feedback
 - Screenshot with html2canvas
 - Using MailTrap to send emails with feedbacks
 
-## 📷 Screenshots:
+## 📷 Screenshots
 <div align="center" >
    <img src="./images/screenshot.png" width="1270px">
    <img src="./images/screenshot2.png" width="1270px">
@@ -30,12 +30,12 @@
    <img src="./images/screenshot4.png" width="1270px">
 </div>
 
-## 🚀 How to run:
+## 🚀 How to run
 ```bash
 # Clone Repository
 $ git clone https://github.com/daniel-nicacio/feedback-widget.git
 ```
-### web:
+### web
 ```bash
 # Insert in terminal
 $ cd web
@@ -46,7 +46,7 @@ $ npm i
 # Run Aplication
 $ npm run dev
 ```
-### server:
+### server
 ```bash
 # Insert in terminal
 $ cd server
@@ -59,7 +59,7 @@ $ npx prisma migrate dev
 # Run Aplication
 $ npm run dev
 ```
-### mobile:
+### mobile
 ```bash
 # Insert in terminal
 $ cd mobile
@@ -71,6 +71,6 @@ $ expo start
 # Access through the Expo Go app
 ```
 
-## 👨‍💻 built by:
+## 👨‍💻 built by
 - Linkedin: https://www.linkedin.com/in/daniel-nic%C3%A1cio-figueiredo/
 - E-mail: daniel.nicacio.f@gmail.com
