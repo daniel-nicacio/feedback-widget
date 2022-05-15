@@ -1,6 +1,4 @@
 # Feedback Widget
-
-## 💻 Project:
 - Widget developed to receive feedbacks.
 - This is a project developed during Next Level Week, offered by **[Rocketseat](https://www.rocketseat.com.br)**.
 
