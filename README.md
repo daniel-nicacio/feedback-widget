@@ -15,7 +15,10 @@
 - [Expo](https://expo.io/)
 
 ## 🔖 Layout
-- You can view the layout of the project through  **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
+- You can view the layout of the project through **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
+
+ ## Deploy
+ - Deploy Web (Vercel): https://feedback-widget-orcin-six.vercel.app
 
  ## 🛠️ Features
 - Sending feedback
