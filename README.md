@@ -74,7 +74,7 @@ $ expo start
 # Access through the Expo Go app
 ```
 
-## 👨‍💻 built by
+## 👨‍💻 Built by
 - Linkedin: https://www.linkedin.com/in/daniel-nic%C3%A1cio-figueiredo/
 - E-mail: daniel.nicacio.f@gmail.com
 
