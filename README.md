@@ -17,7 +17,7 @@
 ## 🔖 Layout
 - You can view the layout of the project through **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
 
- ## Deploy
+ ## 🚀 Deploy
  - Deploy Web (Vercel): https://feedback-widget-orcin-six.vercel.app
 
  ## 🛠️ Features
@@ -27,10 +27,10 @@
 
 ## 📷 Screenshots
 <div align="center" >
-   <img src="./images/screenshot.png" width="1270px">
-   <img src="./images/screenshot2.png" width="1270px">
-   <img src="./images/screenshot3.png" width="1270px">
-   <img src="./images/screenshot4.png" width="1270px">
+   <img src="./.github/screenshot.png" width="1270px">
+   <img src="./.github/screenshot2.png" width="1270px">
+   <img src="./.github/screenshot3.png" width="1270px">
+   <img src="./.github/screenshot4.png" width="1270px">
 </div>
 
 ## 🚀 How to run
