@@ -77,3 +77,6 @@ $ expo start
 ## 👨‍💻 built by
 - Linkedin: https://www.linkedin.com/in/daniel-nic%C3%A1cio-figueiredo/
 - E-mail: daniel.nicacio.f@gmail.com
+
+## 📄 License
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
