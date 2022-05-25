@@ -25,14 +25,6 @@
 - Screenshot with html2canvas
 - Using MailTrap to send emails with feedbacks
 
-## 📷 Screenshots
-<div align="center" >
-   <img src="./.github/screenshot.png" width="1270px">
-   <img src="./.github/screenshot2.png" width="1270px">
-   <img src="./.github/screenshot3.png" width="1270px">
-   <img src="./.github/screenshot4.png" width="1270px">
-</div>
-
 ## 🚀 How to run
 ```bash
 # Clone Repository
