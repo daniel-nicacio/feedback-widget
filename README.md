@@ -1,4 +1,4 @@
-# Feedback Widget
+![Feedback Widget - NLW #8](https://s3-alpha.figma.com/hub/file/1824502523/cf0ee83c-35ad-4afb-9ace-60a17dfd4a1f-cover.png)
 - Widget developed to receive feedbacks.
 - This is a project developed during Next Level Week, offered by **[Rocketseat](https://www.rocketseat.com.br)**.
 
@@ -14,24 +14,16 @@
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-## 🔖 Layout
-- You can view the layout of the project through **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
+## 🎉 Deploy
+- Deploy Web (Vercel): https://feedback-widget-orcin-six.vercel.app
 
- ## 🚀 Deploy
- - Deploy Web (Vercel): https://feedback-widget-orcin-six.vercel.app
-
- ## 🛠️ Features
+## 🛠️ Features
 - Sending feedback
 - Screenshot with html2canvas
 - Using MailTrap to send emails with feedbacks
 
-## 📷 Screenshots
-<div align="center" >
-   <img src="./.github/screenshot.png" width="1270px">
-   <img src="./.github/screenshot2.png" width="1270px">
-   <img src="./.github/screenshot3.png" width="1270px">
-   <img src="./.github/screenshot4.png" width="1270px">
-</div>
+## 🔖 Layout
+- You can view the layout of the project through **[this link](https://www.figma.com/community/file/1102912516166573468)**. You need an account on **[Figma](http://figma.com/)** to access it.
 
 ## 🚀 How to run
 ```bash
@@ -74,7 +66,7 @@ $ expo start
 # Access through the Expo Go app
 ```
 
-## 👨‍💻 built by
+## 👨‍💻 Built by
 - Linkedin: https://www.linkedin.com/in/daniel-nic%C3%A1cio-figueiredo/
 - E-mail: daniel.nicacio.f@gmail.com
 
