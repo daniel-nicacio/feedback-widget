@@ -1,13 +1,13 @@
 import { FormEvent, useState } from "react";
 import { ArrowLeft } from "phosphor-react";
-import { TFeedbacktype, feedbackTypes } from "..";
+import { TFeedbackType, feedbackTypes } from "..";
 import { CloseButton } from "../../CloseButton";
 import { ScreenshotButton } from "../ScreenshotButton";
 import { api } from "../../../lib/api";
 import { Loading } from "../../Loading";
 
-interface FeedbackContentStepProps {
-  feedbackType: TFeedbacktype;
+export interface FeedbackContentStepProps {
+  feedbackType: TFeedbackType;
   onFeedbackRestartRequested: () => void;
   onFeedbackSent: () => void;
 }

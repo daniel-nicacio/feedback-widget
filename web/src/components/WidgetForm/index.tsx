@@ -32,10 +32,10 @@ export const feedbackTypes = {
   },
 };
 
-export type TFeedbacktype = keyof typeof feedbackTypes;
+export type TFeedbackType = keyof typeof feedbackTypes;
 
 export const WidgetForm = () => {
-  const [feedbackType, setFeedbackType] = useState<TFeedbacktype | null>(null);
+  const [feedbackType, setFeedbackType] = useState<TFeedbackType | null>(null);
   const [feedbackSent, setFeedbackSent] = useState(false);
 
   const handleRestartFeedback = (): void => {
