@@ -1,9 +1,10 @@
-![Feedback Widget - NLW #8](https://s3-alpha.figma.com/hub/file/1824502523/cf0ee83c-35ad-4afb-9ace-60a17dfd4a1f-cover.png)
+![Feedback Widget - NLW #8](https://images2.imgbox.com/65/49/EebvJJAx_o.png)
 - Widget developed to receive feedbacks.
 - This is a project developed during Next Level Week, offered by **[Rocketseat](https://www.rocketseat.com.br)**.
 
 ## ✨ Built with
 - [React](https://reactjs.org/)      
+- [Storybook](https://storybook.js.org/)      
 - [Tailwindcss](https://tailwindcss.com/)      
 - [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/docs/intro)
